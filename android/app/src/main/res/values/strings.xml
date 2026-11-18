@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Conveyor Jam</string>
+    <string name="title_activity_main">Conveyor Jam</string>
+    <string name="package_name">com.conveyorjam.app</string>
+    <string name="custom_url_scheme">com.conveyorjam.app</string>
+</resources>
